@@ -1,0 +1,26 @@
+.header{
+	min-height:200px;
+	background-color:skyblue;
+}
+
+.box{
+	overflow:hidden;
+border:5px solid black;
+}
+.blog{
+	min-height:62px;
+	background-color:yellow;
+	border:5px solid red;
+	width:60%;
+	float:left;
+}
+.blog2{
+	background-color:green;
+	min-height: 30px;
+	width:39%;border:1px solid blue;
+float:right;}
+
+.footer{
+	min-height:200px;
+	background-color:grey;
+}
